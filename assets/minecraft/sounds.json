@@ -1,0 +1,10 @@
+{
+  "entity.player.kill": {
+    "sounds": [
+      {
+        "name": "damage/hit4"
+      }
+    ],
+    "subtitle": "Hurt"
+  }
+}
